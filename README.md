@@ -1,62 +1,24 @@
 
-# 📌DARKSSH new update v3.5 now
+# 📌FAST NETCBA NOVA ATUALIZACAO 1024
 
-* UPDATE 23/10/2021
-
-*  ssl problem fixed @
-*  Have Telegram ssh create bot
-*  Have ssh account banner name change 
-*  limiter problem fixed 
-*  new tab USER-LIMIT
-*  Telegram Bot RESELLER 
-*  and more
-*  manual ssh baner add command
-
-# 🎁Offer
-
-gets $100 in credit over 60 days
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b255f41c4d26&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+* UPDATE 01/02/2022
+* 
 
 # Tutorial 
 
 [<img src="https://telegra.ph/file/c374c5a7731796440b6e1.jpg" width="50%">](https://youtu.be/g7yfqBNkk-g)
 
-- 
-🧿ඉතින් darkssh script🦾  එක මම හැදුවට ගොඩක් අය ඒක use කරන.විදිහ දන්නෙ නැ. 
-ඉතින් ඔන්න එ වීඩියෝ 🖥 එකත් ගෙනාව.🧿
-
- තව බෝනස් ස්ටෙප් එකක් විදිහට හැම තිස්සෙම vps🔌📡එකට යන්නෙ නැතුව ටෙලිග්‍රම් එකවුන්ට් එකෙන් ssh account manage කරන විදිහත් ඔන්න මම කියල දෙනව.මේ වීඩියො එකේ 
-ඉතින් මම මහන්සි 🥺වෙලා වීඩියෝ එක හැදුව subscribe & ලයික් පාරක්👍 දාගෙන යන එක ඔයාලගෙ යුතුකමනෙ.🤕යාලුවනේ 
-
-🧿මම subscribe & like කරයි කියල බලාපොරොත්තු 🤧වෙනව ඔයාලට ගොඩක් ස්තුතියි.🤗🧿
-
-
-
-# 📌DARKSSH MANAGER
-
-* යාවත්කාලීන කිරීම 11/05/2021 - සම්පූර්ණ කරන ලද ව්‍යාපෘතිය
-
-* UPDATE 11/05/2021 - Completed Project
-
-# 🌐Language
-
-* ENGLISH
- 
-* SINHALA
-
-# ❤️Remodied for Sri Lanka ...
 
 -------------------------------------------------------------------------------
 
 
-## :book: Installation
+## :book: INSTALACAO
 
 ```
 sudo -s
 ```
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sbatrow/DARKSSH-MANAGER/master/Plus; chmod 777 Plus; ./Plus
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/bielsilva713/FAST-NETCBA-MANAGER/master/Plus; chmod 777 Plus; ./Plus
 
 ```
 
@@ -65,9 +27,9 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/sb
 
 -------------------------------------------------------------------------------
 
-<img align="right" src="https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
+<img align="right" src="https://github.com/bielsilva713/FAST-NETCBA-MANAGER/blob/main/image/ssh bot.jpg" width='300'/>
 
-![logo](https://github.com/sbatrow/DARKSSH-MANAGER/blob/main/image/DARKSSH.jpg)
+![logo](https://github.com/bielsilva713/FAST-NETCBA-MANAGER/blob/main/image/DARKSSH.jpg)
 
 [![Stars](https://img.shields.io/github/stars/sbatrow/DARKSSH-MANAGER?style=flat-square&color=yellow)](https://github.com/sbatrow/DARKSSH-MANAGER/stargazers)
 [![Forks](https://img.shields.io/github/forks/sbatrow/DARKSSH-MANAGER?style=flat-square&color=orange)](https://github.com/sbatrow/DARKSSH-MANAGER/fork)
